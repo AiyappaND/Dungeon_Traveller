@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DungeonModel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/DungeonModel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
